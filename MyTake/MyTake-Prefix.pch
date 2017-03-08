@@ -1,0 +1,23 @@
+//
+//  MyTake-Prefix.pch
+//  MyTake
+//
+//  Created by Hema on 12/07/16.
+//  Copyright © 2016 Ranosys. All rights reserved.
+//
+
+#ifndef MyTake_Prefix_pch
+#define MyTake_Prefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import "AppDelegate.h"
+#import "SCLAlertView.h"
+#import "UserDefaultManager.h"
+#import <UIImageView+AFNetworking.h>
+#import "MyTakeViewController.h"
+#import "UIView+RoundedCorner.h"
+
+#define myDelegate ((AppDelegate *)[[UIApplication sharedApplication] delegate])
+#endif
+/* MyTake_Prefix_pch */

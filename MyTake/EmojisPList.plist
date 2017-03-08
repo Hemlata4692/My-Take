@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>afraid</key>
+	<false/>
+	<key>angry</key>
+	<false/>
+	<key>confused</key>
+	<false/>
+	<key>cool</key>
+	<false/>
+	<key>cry</key>
+	<false/>
+	<key>excited</key>
+	<false/>
+	<key>frown</key>
+	<false/>
+	<key>grin</key>
+	<false/>
+	<key>hipstar</key>
+	<false/>
+	<key>hushed</key>
+	<false/>
+	<key>neutral</key>
+	<false/>
+	<key>playful</key>
+	<false/>
+	<key>shocked</key>
+	<false/>
+	<key>sinistar</key>
+	<false/>
+	<key>smart</key>
+	<false/>
+	<key>smile</key>
+	<false/>
+	<key>smirking</key>
+	<false/>
+	<key>teathsmile</key>
+	<false/>
+	<key>thoughful</key>
+	<false/>
+	<key>wink</key>
+	<false/>
+	<key>worried</key>
+	<false/>
+</dict>
+</plist>
